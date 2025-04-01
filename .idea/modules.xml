@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/consoleJava1.iml" filepath="$PROJECT_DIR$/consoleJava1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointSegmentJava.iml" filepath="$PROJECT_DIR$/PointSegmentJava.iml" />
     </modules>
   </component>
 </project>
